@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/capslock/code/server/build",
+  "command": "/usr/bin/c++  -I/home/capslock/code/server/includes -std=c++20 -Wall -o CMakeFiles/server.dir/src/main.cpp.o -c /home/capslock/code/server/src/main.cpp",
+  "file": "/home/capslock/code/server/src/main.cpp",
+  "output": "CMakeFiles/server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/capslock/code/server/build",
+  "command": "/usr/bin/c++  -I/home/capslock/code/server/includes -std=c++20 -Wall -o CMakeFiles/server.dir/src/server.cpp.o -c /home/capslock/code/server/src/server.cpp",
+  "file": "/home/capslock/code/server/src/server.cpp",
+  "output": "CMakeFiles/server.dir/src/server.cpp.o"
+}
+]
