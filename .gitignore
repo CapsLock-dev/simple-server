@@ -1,0 +1,4 @@
+/build
+/.cache
+todo
+compile_commands.json

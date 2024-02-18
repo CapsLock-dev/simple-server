@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.20)
 
-project(ChatServer)
+project(Server)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_executable(server src/main.cpp src/server.cpp)
